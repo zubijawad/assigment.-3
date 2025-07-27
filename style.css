@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    background-image: url(http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-36.gif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom;
+
+}
+.asra{
+    position: absolute;
+    bottom: 0;
+    height: 300px;
+}
